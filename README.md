@@ -1,11 +1,24 @@
-# MadDeals_2.0_REACT
-# New Repo for MadDeals
+# MadDeals
 
-#1. In order to use, just run 'npm start' in the terminal while in the project directory, and install Expo on your phone, then scan the QR code given by the terminal and you should see how the app looks!
+MadDeals is an innovative app designed to simplify the process of finding restaurants based on individual preferences while offering exclusive deals and discounts.
 
-#2. Dashboard.js has been created for the homepage, there you guys can coordinate and add the Home Page details etc.
+## Features 
+- Personalized Recommendations: Utilizes user preferences to suggest tailored restaurant options.
+- Interactive Map: Visualizes recommended restaurants on a map interface for easy navigation.
+- Exclusive Deals: Offers users exclusive discounts and deals at selected restaurants.
+- User Profiles: Allows users to create profiles and save their dining preferences.
 
-#3. I have invited you guys onto the Firebase project so any changes can be seen in the FireStore db
+## Installation
+To run the MadDeals app locally, follow these steps:
 
-#4. I guess we can push to our own branches and then merge with main?
+- Clone the Repository: ```git clone https://github.com/yourusername/maddeals.git```
+- Navigate to the Directory: ```cd maddeals```
+- Install Dependencies: ```npm install```
+- Run the App: ```npm start```
+
+## Usage
+- User Registration: Sign up and create a profile with your dining preferences.
+- Explore Restaurants: View personalized restaurant suggestions on the app's map interface.
+- Discover Deals: Check out exclusive deals and discounts available at recommended restaurants.
+- Save Favorites: Save your favorite restaurants for quick access in the future.
 
