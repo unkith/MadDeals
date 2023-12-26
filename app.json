@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "MadDeals_React_2.0",
+    "slug": "MadDeals_React_2.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "config": {
+        "googleMapsApiKey": "AIzaSyDYzQQeYaNrUsRv5SMy5lQLFdjIesncP1Y"
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "config": {
+        "googleMapsApiKey": "AIzaSyDYzQQeYaNrUsRv5SMy5lQLFdjIesncP1Y"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "config": {
+        "googleMapsApiKey": "AIzaSyDYzQQeYaNrUsRv5SMy5lQLFdjIesncP1Y"
+      }
+    }
+  }
+}
+
+
