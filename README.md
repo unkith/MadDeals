@@ -20,5 +20,4 @@ To run the MadDeals app locally, follow these steps:
 - User Registration: Sign up and create a profile with your dining preferences.
 - Explore Restaurants: View personalized restaurant suggestions on the app's map interface.
 - Discover Deals: Check out exclusive deals and discounts available at recommended restaurants.
-- Save Favorites: Save your favorite restaurants for quick access in the future.
 
